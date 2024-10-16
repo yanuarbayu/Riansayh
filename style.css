@@ -15,6 +15,7 @@ body {
 .abcd{
   display: flex;
   justify-content: flex-end;
+}
 .layar-dalam {
   width: 1000px;
   margin: auto;

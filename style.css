@@ -12,6 +12,9 @@ body {
   margin: 0px;
   padding: 0px;
 }
+.abcd{
+  display: flex;
+  justify-content: flex-end;
 .layar-dalam {
   width: 1000px;
   margin: auto;
